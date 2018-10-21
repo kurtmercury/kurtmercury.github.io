@@ -9,7 +9,7 @@
 }
 
 /* BEGIN (write your solution here) */
-p {margin-bottom: 12px; margin-top: 0px;}
+p {margin-bottom: 12px; margin: 0px;}
 h1, h2, h3 {font-weight: 400; margin: 0px}
 h1 {font-size: 34px;}
 h2 {font-size: 30px; border-bottom: 1px solid gray; margin-bottom: 8px;}
